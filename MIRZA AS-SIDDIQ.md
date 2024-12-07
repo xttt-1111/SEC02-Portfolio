@@ -1,1 +1,1 @@
-[About Me](github.com/mirzasdq)
+[About Me](https://github.com/mirzasdq)
